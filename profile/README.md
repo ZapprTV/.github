@@ -8,4 +8,3 @@ oppure dai un'occhiata alle nostre repo:
 - 🖼️ [/optimize-images](https://github.com/ZapprTV/optimize-images) - GitHub Action per ottimizzare le immagini dei loghi
 - ☁️ [/cloudflare-api](https://github.com/ZapprTV/cloudflare-api) - API (su Cloudflare Workers) per la riproduzione di certi tipi di canali
 - 🔺 [/vercel-api](https://github.com/ZapprTV/vercel-api) - API (su Vercel) per la riproduzione di certi tipi di canali
-- 🔓 [/http-player](https://github.com/ZapprTV/http-player) - Player usato per la riproduzione di canali visibili solo tramite HTTP
